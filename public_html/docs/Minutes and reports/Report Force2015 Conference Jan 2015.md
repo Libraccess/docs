@@ -15,7 +15,7 @@ Participant: Clement Levallois
 - Presented the [poster of Libraccess](http://www.clementlevallois.net/download/PosterA4Force2015.pdf)    
 - Many personal connections made with active promoters of the open access movement.  
 - Around 50 paper copies of the [Libraccess proposal](https://github.com/Libraccess/docs/wiki/Libraccess-original-proposal) distributed.  
-- from 5 to 31 ["interested observers"](https://github.com/Libraccess/docs/wiki/list-of-'interested-observers'-of-the-Libraccess-initiative).  
+- moved from 5 to 31 ["interested observers"](https://github.com/Libraccess/docs/wiki/list-of-'interested-observers'-of-the-Libraccess-initiative).  
 - 1 organization joined as an interested observer: [Ubiquity Press](http://www.ubiquitypress.com/).  
 - Large number of interactions on the twitter account ([@Libraccess](https://twitter.com/Libraccess)), up to 92 followers.  
 
@@ -23,8 +23,8 @@ Participant: Clement Levallois
 ## 2. Things learned  
 
 ### a) Libraccess will connect with similar initiatives  
-Many participants to the conference pointed to initiatives similar to Libraccess. [CORE](http://core.kmi.open.ac.uk/) is the initiative tha was mentioned most often (maybe because we were in Oxford and CORE is a British initiative).  
-The opinion was generally that these existing initiatives (list [here](https://github.com/Libraccess/docs/wiki/list-of-similar-and-potentially-allied-projects)) do not make Libraccess unnecessary, rather, Libraccess could be associated with them. The consensus was also that it is necessary to understand why these initiatives did not take off as much as we could wish. Consulting with these initiatives is then an essential step.  
+Many participants to the conference pointed to [initiatives similar to Libraccess](https://github.com/Libraccess/docs/wiki/list-of-similar-and-potentially-allied-projects). [CORE](http://core.kmi.open.ac.uk/) is the initiative tha was mentioned most often (maybe because we were in Oxford and CORE is a British initiative).  
+The opinion was generally that these existing initiatives do not make Libraccess unnecessary, rather, Libraccess could be associated with them. The consensus was also that it is necessary to understand why these initiatives did not take off as much as we could wish. Consulting with these initiatives is then an essential step.  
 
 ### b) Open access journals can be harvested! Not just repositories  
 The [Libraccess proposal](https://github.com/Libraccess/docs/wiki/Libraccess-original-proposal) is focusing much on harvesting repos. But publishers, as long as they are OA and provide APIs, can be harvested too. That is why it makes sense for [Ubiquity Press](http://www.ubiquitypress.com/) to join as an interested observer. Plos is an obvious other candidate (Plos people, if you read this, send an email!).  
@@ -32,7 +32,7 @@ The [Libraccess proposal](https://github.com/Libraccess/docs/wiki/Libraccess-ori
 ### c) Structure of the community at #Force2015
 These are just personal and subjective perceptions:  
 - As expected the conference is a mix of public and private stakeholders in the e-Research and scholarly communication community. Not all concerned with open access. Very much US and European centric.  
-- The most vocal defense of the values and agenda of open access was the one of team of Pr. [Peter Murray-Rust](http://www.ch.cam.ac.uk/person/pm286). He heads a project called [Content Mine](http://contentmine.org/) which mines facts from publications. They developed a number of tools which would be useful to mine #OA repositories.  
+- The most vocal defense of the values and agenda of open access was by the team of Pr. [Peter Murray-Rust](http://www.ch.cam.ac.uk/person/pm286). He heads a project called [Content Mine](http://contentmine.org/) which mines facts from publications. They developed a number of tools which would be useful to mine #OA repositories.  
 - The community is very much centered around publishing and gold open access: open access journals, how to host / mine / represent data in these journals... I was surprised to see the #OA institutional repositories not represented and barely discussed.  
 - Many participants were also researchers presenting posters on useful tools to mine scientific publications.  
 
