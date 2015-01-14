@@ -1,10 +1,10 @@
 *A note on this document:  
-Libraccess is a project to build a platform to make open access resources widely available.  
+Libraccess is a project to build a platform to make open access resources widely available. [See all docs here](https://github.com/Libraccess/docs/wiki).  
 In relation to this ojective, Libraccess will adopt an open and transparent governance.  
 Making minutes and reports public is a contribution to this objective.*  
 
 # Report on #Force2015 Conference, Oxford, 11-13 January 2015.
-Author of this report: Clement Levallois  
+Author of this report: [Clement Levallois](http://www.clementlevallois.net)  
 Date of the report: 14 Jan 2015.  
 Participant: Clement Levallois  
 Objective of the participation: connecting with the #openaccess community and stakeholders of scholarly communication to make Libraccess known and gather support for it.  
