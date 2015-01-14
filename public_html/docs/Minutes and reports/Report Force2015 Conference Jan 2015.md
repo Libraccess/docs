@@ -11,7 +11,8 @@ Objective of the participation: connecting with the #openaccess community and st
 
 ![](https://www.force11.org/sites/default/files/styles/homepage_slide_tall/public/d7/creatives/jumbotron-slides/header-index3.jpg)  
 
-## 1. Summary of results
+## 1. Summary of actions and results
+- Presented the [poster of Libraccess](http://www.clementlevallois.net/download/PosterA4Force2015.pdf)    
 - Many personal connections made with active promoters of the open access movement.  
 - Around 50 paper copies of the [Libraccess proposal](https://github.com/Libraccess/docs/wiki/Libraccess-original-proposal) distributed.  
 - from 5 to 31 ["interested observers"](https://github.com/Libraccess/docs/wiki/list-of-'interested-observers'-of-the-Libraccess-initiative).  
