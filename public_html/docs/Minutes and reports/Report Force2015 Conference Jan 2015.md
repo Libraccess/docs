@@ -9,6 +9,8 @@ Date of the report: 14 Jan 2015.
 Participant: Clement Levallois  
 Objective of the participation: connecting with the #openaccess community and stakeholders of scholarly communication to make Libraccess known and gather support for it.  
 
+![](https://www.force11.org/sites/default/files/styles/homepage_slide_tall/public/d7/creatives/jumbotron-slides/header-index3.jpg)  
+
 ## 1. Summary of results
 - Many personal connections made with active promoters of the open access movement.  
 - Around 50 paper copies of the [Libraccess proposal](https://github.com/Libraccess/docs/wiki/Libraccess-original-proposal) distributed.  
