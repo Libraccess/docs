@@ -23,7 +23,7 @@ Participant: Clement Levallois
 ## 2. Things learned  
 
 ### a) Libraccess will connect with similar initiatives  
-Many participants to the conference pointed to [initiatives similar to Libraccess](https://github.com/Libraccess/docs/wiki/list-of-similar-and-potentially-allied-projects). [CORE](http://core.kmi.open.ac.uk/) is the initiative tha was mentioned most often (maybe because we were in Oxford and CORE is a British initiative).  
+Many participants to the conference pointed to [initiatives similar to Libraccess](https://github.com/Libraccess/docs/wiki/list-of-similar-and-potentially-allied-projects). [CORE](http://core.kmi.open.ac.uk/) is the initiative that was mentioned most often (maybe because we were in Oxford and CORE is a British initiative).  
 The opinion was generally that these existing initiatives do not make Libraccess unnecessary, rather, Libraccess could be associated with them. The consensus was also that it is necessary to understand why these initiatives did not take off as much as we could wish. Consulting with these initiatives is then an essential step.  
 
 ### b) Open access journals can be harvested! Not just repositories  
